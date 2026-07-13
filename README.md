@@ -320,7 +320,7 @@ SESSION_SECRET=your_session_secret
 
 ---
 
-# 🗄 Database Setup
+# Database Setup
 
 1. Install MySQL Server.
 2. Create a new database.
@@ -391,7 +391,7 @@ SESSION_SECRET=your_session_secret
 
 ![Mentor](Documentation/Screenshot/Mentor.png)
 
-```
+---
 
 Suggested screenshots:
 
@@ -483,15 +483,16 @@ The **Documentation** folder contains all project-related documents, resources, 
 
 ---
 
-# Contributors
+#  Contributors
 
 | Photo | Name | Roll Number |
 |:---:|---|---|
-| <img src="Documentation/Team/ajay.jpg" width="100"> | **Ajay Kumar Singh** | 27600122119 |
-| <img src="Documentation/Team/aman.jpg" width="100"> | **Aman Singh** | 27600122120 |
-| <img src="Documentation/Team/himansu.jpg" width="100"> | **Himansu Kumar Singh** | 27600122031 |
-| <img src="Documentation/Team/saksham.jpg" width="100"> | **Saksham Gupta** | 27600122181 |
-| <img src="Documentation/Team/rishu.jpg" width="100"> | **Rishu Raj** | 27600122186 |
+| ![Ajay Kumar Singh](Documentation/Team/ajay.jpg) | **Ajay Kumar Singh** | 27600122119 |
+| ![Aman Singh](Documentation/Team/aman.jpg) | **Aman Singh** | 27600122120 |
+| ![Himansu Kumar Singh](Documentation/Team/himansu.jpg) | **Himansu Kumar Singh** | 27600122031 |
+| ![Saksham Gupta](Documentation/Team/saksham.jpg) | **Saksham Gupta** | 27600122181 |
+| ![Rishu Raj](Documentation/Team/rishu.jpg) | **Rishu Raj** | 27600122186 |
+
 ---
 
 #  Academic Guide
