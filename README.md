@@ -412,32 +412,6 @@ Suggested screenshots:
 
 ---
 
-#  Project Documentation
-
-The **Documentation** folder contains all project-related documents, resources, and supporting materials.
-
-##  Contents
-
--  **Final Year Project Report**
-  - Complete project documentation and technical details.
-
--  **Project Presentation (PPT)**
-  - Final year project presentation slides.
-
--  **Project Logo**
-  - Official EduVerse project branding assets.
-
--  **Application Screenshots**
-  - Screenshots of different modules and user interfaces.
-
--  **Team Information**
-  - Contributor details and team member profiles.
-
--  **Additional Diagrams**
-  - System architecture, database diagrams, and other supporting diagrams (if available).
-
----
-
 #  Project Modules
 
 ### Authentication Module
@@ -483,45 +457,6 @@ The **Documentation** folder contains all project-related documents, resources, 
 
 ---
 
-#  Contributors
-
-| Photo | Name | Roll Number |
-|:---:|---|---|
-| ![Ajay Kumar Singh](Documentation/Team/ajay.jpg) | **Ajay Kumar Singh** | 27600122119 |
-| ![Aman Singh](Documentation/Team/aman.jpg) | **Aman Singh** | 27600122120 |
-| ![Himansu Kumar Singh](Documentation/Team/himansu.jpg) | **Himansu Kumar Singh** | 27600122031 |
-| ![Saksham Gupta](Documentation/Team/saksham.jpg) | **Saksham Gupta** | 27600122181 |
-| ![Rishu Raj](Documentation/Team/rishu.jpg) | **Rishu Raj** | 27600122186 |
-
----
-
-#  Academic Guide
-
-<div align="center">
-
-<img src="Documentation/Team/jyotipriyo-khanra.jpg" width="180">
-
-### Mr. Jyotipriyo Khanra
-
-**Project Guide**
-
-Budge Budge Institute of Technology
-
-</div>
-
----
-
-#  Academic Information
-
-| Item          | Details                                                       |
-| ------------- | ------------------------------------------------------------- |
-| Project       | EduVerse                                                      |
-| Project Type  | Final Year Project                                            |
-| College       | Budge Budge Institute of Technology                           |
-| University    | Maulana Abul Kalam Azad University of Technology, West Bengal |
-| Academic Year | 2022 - 2026                                                          |
-
----
 
 #  Contributing
 
@@ -543,19 +478,12 @@ Commercial use is not permitted without the permission of the project contributo
 
 ---
 
-#  Acknowledgements
-
-Special thanks to our faculty guide **Mr. Jyotipriyo Khanra** for his guidance and support throughout the development of this project.
-
-We also acknowledge **Budge Budge Institute of Technology** and **Maulana Abul Kalam Azad University of Technology, West Bengal** for providing the academic environment and resources that made this project possible.
-
----
 
 <div align="center">
 
 ###  If you found this project helpful, consider giving it a Star!
 
-Thank you for visiting the EduVerse repository.
+Thank you for visiting the E-Learning repository.
 
 </div>
 ---
